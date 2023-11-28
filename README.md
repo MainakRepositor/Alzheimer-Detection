@@ -1,11 +1,5 @@
-# Brain Stroke Predictor
+# Alzheimer Detector
 
-![home](https://user-images.githubusercontent.com/64016811/205672233-8ab97d26-2b64-4b57-a0e6-6e6ed5fc3b4a.jpeg)
-
-
-### Problem : 
-
-Damage to the brain from interruption of its blood supply. A stroke is a medical emergency. Symptoms of stroke include trouble walking, speaking and understanding, as well as paralysis or numbness of the face, arm or leg. Early treatment with medication like tPA (clot buster) can minimise brain damage. Other treatments focus on limiting complications and preventing additional strokes.
 
 ### Solution:
 
@@ -45,7 +39,4 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 ![image](https://user-images.githubusercontent.com/64016811/198943581-38dc1948-caac-4762-9f1a-1bdf2ef887f3.png)
 
 
-### Made with 💙 by:
-![maker](https://user-images.githubusercontent.com/64016811/198821378-09bf5224-a537-4154-9df9-d9b29da95af7.jpg)
 
-## MAINAK CHAUDHURI
